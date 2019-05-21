@@ -1,0 +1,24 @@
+{
+  "name": "5-simulate",
+  "version": "1.0.0",
+  "description": "Enzyme simulation",
+  "main": "Component.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elliot Penson",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.8.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.13.1",
+    "jest": "^24.8.0",
+    "react-test-renderer": "^16.8.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

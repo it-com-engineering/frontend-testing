@@ -1,6 +1,8 @@
 const React = require("react");
 
-/* taken from https://reactjs.org/docs/lists-and-keys.html */
+/**
+ * Taken from https://reactjs.org/docs/lists-and-keys.html
+ */
 function NumberList(props) {
   const numbers = props.numbers;
   const listItems = numbers.map(number => <li key={number.toString()}>{number}</li>);
