@@ -1,0 +1,14 @@
+{
+  "name": "2-async",
+  "version": "1.0.0",
+  "description": "Asynchronous code and Jest",
+  "main": "database.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elliot Penson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
