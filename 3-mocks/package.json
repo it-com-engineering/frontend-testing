@@ -1,0 +1,14 @@
+{
+  "name": "3-mocks",
+  "version": "1.0.0",
+  "description": "Jest mocks",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elliot Penson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
