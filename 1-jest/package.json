@@ -1,0 +1,14 @@
+{
+  "name": "1-jest",
+  "version": "1.0.0",
+  "description": "Introduction to Jest",
+  "main": "search.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Elliot Penson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
